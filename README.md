@@ -1,5 +1,5 @@
 ## Olá 👋 Eu sou o Almir.
-<div >
+<div display="block: in-line">
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalmiroN)](https://github.com/KalmiroN/github-readme-stats)  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalmiroN&show_icons=true&theme=transparent)
@@ -49,10 +49,11 @@ Git / GitHub
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" height="45 px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="45 px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="45 px" />  
-  <img align="right" alt="Almir-Lima" ![Meu GIF](https://cdn.discordapp.com/attachments/1074750797646139575/1439820851968086146/merged.gif) />
+  <img src="https://cdn.discordapp.com/attachments/1074750797646139575/1439820851968086146/merged.gif" alt="Almir GIF" align="right" width="200" />
     
 </div>  
 
   ##
 ![Snake animation](https://github.com/KalmiroN/KalmiroN/blob/output/snake.svg)
+
 
