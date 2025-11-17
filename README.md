@@ -1,12 +1,10 @@
 ## 👋 Olá! Eu sou o Almir Lima
 
-Desenvolvedor Front-end residente em **São Paulo/SP, Brasil**.  
-Sou apaixonado por criar interfaces intuitivas e performáticas.  
-Atualmente estou no **4º semestre de Análise e Desenvolvimento de Sistemas**.  
-Tenho experiência com **React**, **JavaScript** e foco em **SEO**, **escalabilidade**, **acessibilidade** e **experiência do usuário**.
-
-🔭 Em busca de uma oportunidade onde possa crescer com a equipe e contribuir com soluções criativas.  
-🌱 Estudando Front-end com foco em **React**, **JavaScript** e boas práticas de arquitetura.
+📆 Desenvolvedor Front-end residente em **São Paulo/SP, Brasil**.  
+📈 Sou apaixonado por criar interfaces intuitivas e performáticas.  
+📱 Atualmente estou no **4º semestre de Análise e Desenvolvimento de Sistemas**.  
+👍 Experiência em **React**, **JavaScript** com foco em **SEO**, **escalabilidade**, **acessibilidade**, **experiência do usuário** e **boas práticas de arquitetura**.
+🔭 **Em busca de uma oportunidade** onde possa crescer com a equipe e contribuir com soluções criativas.  
 
 ---
 
