@@ -49,14 +49,16 @@ Git / GitHub
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" height="45 px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="45 px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="45 px" />  
-  <img src="https://cdn.discordapp.com/attachments/1074750797646139575/1439820851968086146/merged.gif" alt="Almir GIF" align="right" width="200" />
-  
-  ![Almir animado](./merged.gif)
+  <img src="./merged.gif" alt="Almir animado" width="160" align="right" />
 
     
 </div>  
 
   ##
-![Snake animation](https://github.com/KalmiroN/KalmiroN/blob/output/snake.svg)
+  <div>
+    
+  ![Snake animation](https://github.com/KalmiroN/KalmiroN/blob/output/snake.svg)
+    
+  </div>
 
 
