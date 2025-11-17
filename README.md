@@ -1,8 +1,9 @@
 ## Olá 👋 Eu sou o Almir.
 <div display="block: in-line">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalmiroN)](https://github.com/KalmiroN/github-readme-stats)  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalmiroN&show_icons=true&theme=transparent)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalmiroN&layout=compact&theme=transparent" />
+
 
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" &theme=THEME_NAME />
 </div> 
