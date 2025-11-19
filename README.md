@@ -3,23 +3,19 @@
 📆 Desenvolvedor Front-end residente em **São Paulo/SP, Brasil**.  
 📈 Sou apaixonado por criar interfaces intuitivas e performáticas.  
 📱 Atualmente estou no **4º semestre de Análise e Desenvolvimento de Sistemas**.  
-👍 Experiência em **React**, **JavaScript** com foco em **SEO**, **escalabilidade**, **acessibilidade**, **experiência do usuário** e **boas práticas de arquitetura**.
-🔭 **Em busca de uma oportunidade** onde possa crescer com a equipe e contribuir com soluções criativas.  
+👍 Projetos praticos em **React**, **JavaScript**, foco em **SEO**, **escalabilidade**, **acessibilidade**, **experiência do usuário** e **boas práticas de arquitetura**.
+🔭 **Sempre em busca de novos desafios.**   
 
 ---
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KalmiroN&show_icons=true&theme=transparent" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalmiroN&layout=compact&theme=transparent" />
-    </td>
-  </tr>
-</table>
+<div>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KalmiroN&show_icons=true&theme=merko&locale=pt-br" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalmiroN&layout=compact&theme=merko&locale=pt-br" />
+  
+</div>
 
 ---
 <div>
