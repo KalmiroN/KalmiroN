@@ -1,10 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&text=Olá!%20eu%20sou%20o%20Almir.&fontAlign=50&reversal=false&descAlign=62&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&fontSize=45&color=1f6524&text=Olá!%20eu%20sou%20o%20Almir.&fontAlign=50&reversal=false&descAlign=73&descAlignY=99&fontColor=dbdfb8" />
 
-📆 Desenvolvedor Front-end residente em **São Paulo/SP, Brasil**.  
-📈 Sou apaixonado por criar interfaces intuitivas e performáticas.  
-📱 Atualmente estou no **4º semestre de Análise e Desenvolvimento de Sistemas**.  
-👍 Projetos praticos em **React**, **JavaScript**, foco em **SEO**, **escalabilidade**, **acessibilidade**, **experiência do usuário** e **boas práticas de arquitetura**.
-🔭 **Sempre em busca de novos desafios.**   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DBDFB8&width=800&lines=Desenvolvedor+Front-end.;Cursando+o+4%C2%BA+semestre+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.;Projetos+praticos+em+React+e+JavaScript.;Sempre+em+busca+de+novos+desafios.)](https://git.io/typing-svg)
 
 ---
 
