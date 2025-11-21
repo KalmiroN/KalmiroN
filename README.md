@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Almir Lima
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&text=Olá!%20eu%20sou%20o%20Almir.&fontAlign=50&reversal=false&descAlign=62&descAlignY=60" />
 
 📆 Desenvolvedor Front-end residente em **São Paulo/SP, Brasil**.  
 📈 Sou apaixonado por criar interfaces intuitivas e performáticas.  
