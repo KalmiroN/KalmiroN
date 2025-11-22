@@ -9,11 +9,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake SVG
+      - name: Generate Snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: KalmiroN
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-custom.svg?color_snake=#d4af37&color_dots=#dbdfb8&color_bg=#1a1a1a
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
