@@ -1,8 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1f6524&text=Olá!%20eu%20sou%20o%20Almir.&textBg=false&fontColor=dbdfb8&fontSize=45&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DBDFB8&width=800&lines=Desenvolvedor+Front-end.;Cursando+o+4%C2%BA+semestre+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.;Projetos+praticos+em+React+e+JavaScript.;Sempre+em+busca+de+novos+desafios.)](https://git.io/typing-svg)
-
----
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DBDFB8&width=800&lines=Desenvolvedor+Front-end.;Cursando+o+4%C2%BA+semestre+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.;Projetos+praticos+em+React+e+JavaScript.;Sempre+em+busca+de+novos+desafios.)](https://git.io/typing-svg)
 
 ### 📊 GitHub Stats.
 
@@ -13,7 +11,8 @@
   
 </div>
 
----
+#
+
 <div>
 ### 🏷️ Badges de Tecnologias.
 
@@ -32,7 +31,7 @@
 <img src="./merged.gif" alt="Almir animado" width="120" align="right" />
 </div>
 
----
+#
 
 ### 🐍 Snake Animation. 
 
