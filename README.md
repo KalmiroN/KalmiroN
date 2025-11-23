@@ -45,5 +45,6 @@
   <!-- Tema custom -->
   <img alt="github-snake-custom" src="https://KalmiroN.github.io/KalmiroN/snake-custom.svg" />
 </picture>
+![Snake animation](https://raw.githubusercontent.com/KalmiroN/KalmiroN/output/snake-custom.gif)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1f6524&section=footer" />
 
