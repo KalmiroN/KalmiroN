@@ -33,12 +33,17 @@
 
 #
 
-### 🐍 Snake Animation.
+### 🐍 Snake Animation
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KalmiroN/KalmiroN/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KalmiroN/KalmiroN/output/snake.svg" />
-  <img alt="github-snake-custom" src="https://raw.githubusercontent.com/KalmiroN/KalmiroN/output/snake-custom.svg" />
+  <!-- Tema escuro -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://KalmiroN.github.io/KalmiroN/snake-dark.svg" />
+  
+  <!-- Tema claro -->
+  <source media="(prefers-color-scheme: light)" srcset="https://KalmiroN.github.io/KalmiroN/snake.svg" />
+  
+  <!-- Tema custom -->
+  <img alt="github-snake-custom" src="https://KalmiroN.github.io/KalmiroN/snake-custom.svg" />
 </picture>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1f6524&section=footer" />
 
