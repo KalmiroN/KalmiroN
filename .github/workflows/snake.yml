@@ -14,9 +14,9 @@ jobs:
         with:
           github_user_name: KalmiroN
           outputs: |
-            dist/snake.gif
-            dist/snake-dark.gif?palette=github-dark
-            dist/snake-custom.gif?color_snake=#f37964&color_dots=#363c44
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-custom.gif?color_snake=#f37964&color_dots=#363c44,#555555,#777777,#999999,#bbbbbb&color_background=#1a1a1a
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
