@@ -16,7 +16,7 @@ jobs:
           outputs: |
             dist/snake.gif
             dist/snake-dark.gif?palette=github-dark
-            dist/snake-custom.gif?color_snake=#f37964&color_dots=#181b1f,#b3d046,#a2c701,#99cb35,#a3d04b&color_background=#212830
+            dist/snake-custom.gif?color_snake=#f37964&color_dots=#181b1f,#e1ebb2,#bdd55e,#a2c701,#96CA2D&color_background=#212830
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
