@@ -36,9 +36,10 @@
 ### 🐍 Snake Animation
 
 <picture>
+  
+  ![Snake animation](https://KalmiroN.github.io/KalmiroN/snake-custom.gif)
   <source media="(prefers-color-scheme: dark)" srcset="https://KalmiroN.github.io/KalmiroN/snake-dark.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://KalmiroN.github.io/KalmiroN/snake.gif" /> 
-  <img alt="github-snake-custom" src="https://KalmiroN.github.io/KalmiroN/snake-custom.gif" />
+  
 </picture>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1f6524&section=footer" />
